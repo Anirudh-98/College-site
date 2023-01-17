@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #820000;
+}
+.navbar>.container-fluid{
+    justify-content: center;
+}
+address{
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.about{
+    background-color: #4E6C50;
+    align-items: center;
+}
+
+footer{
+    background-color: #F2DEBA;
+}
